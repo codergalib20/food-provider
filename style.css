@@ -106,6 +106,9 @@ body{
     font-weight: 500;
     color: #666666;
 }
+#recipies img {
+    border-radius: 50px;
+}
 
 /* Discount Section Style */
 #discount{
